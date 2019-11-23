@@ -30,6 +30,6 @@ Entre ellos:
 
 -[Comandos y resultados obtenidos del Caso Complejo 2](https://github.com/PW-Neo4j-Isa-Pablo/Neo4j/blob/master/Ejercicios/Casos_Complejos/2_Profesores_Alumnos/Comandos_Profesores_Alumnos.pdf)
 
--[Fuentes de donde hemos sacado toda esta información]()
+-[Fuentes de donde hemos sacado toda esta información](https://github.com/PW-Neo4j-Isa-Pablo/Neo4j/blob/master/Bibliografia.pdf)
 
 Esto es todo amig@s, esperamos que esta Introducción a Neo4j os haya servido de mucho.
