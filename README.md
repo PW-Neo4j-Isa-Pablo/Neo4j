@@ -23,7 +23,9 @@ Como añadido a estos videotutoriales, hemos creado una serie de directorios en 
 
 Entre ellos: 
 -[Comandos utilizados en todos los videos tutoriales](https://github.com/PW-Neo4j-Isa-Pablo/Neo4j/blob/master/Ejercicios/Básicos/Documento_De_Comandos.pdf)
+
 -[Comandos y resultados obtenidos del Caso Complejo 1](https://github.com/PW-Neo4j-Isa-Pablo/Neo4j/blob/master/Ejercicios/Casos_Complejos/2_Profesores_Alumnos/Comandos_Profesores_Alumnos.pdf)
+
 -[Comandos y resultados obtenidos del Caso Complejo 2](https://github.com/PW-Neo4j-Isa-Pablo/Neo4j/blob/master/Ejercicios/Casos_Complejos/2_Comunidad_Europea/Comandos_Comunidad_Europea.pdf)
 
 Esto es todo amig@s, esperamos que esta Introducción a Neo4j os haya servido de mucho.
