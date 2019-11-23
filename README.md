@@ -14,21 +14,21 @@ enlace aqui
 enlace aqui
 
 Además, hemos creado una serie de tutoriales básicos sobre el manejo de las bases de datos en grafos dentro de Neo4j
-### Creación de Nodos
+### _Creación de Nodos_
 enlace aqui
-### Creación de Relaciones
+### _Creación de Relaciones_
 enlace aqui
-### Manejo del operador Match 
+### _Manejo del operador Match_ 
 enlace aqui
-### Manejo avanzado del operador Match
+### _Manejo avanzado del operador Match_
 enlace aqui
-### Manejo de los operadores Set, Remove y Delete
+### _Manejo de los operadores Set, Remove y Delete_
 enlace aquí
 
 Finalmente hemos creado dos casos prácticos, para una mayor comprensión de la materia por parte del usuario, que son:
-### Caso Complejo nº1: 
+### _Caso Complejo nº1:_ 
 enlace aquí
-### Caso Complejo nº2: Manejo de datos sobre la Comunidad Europea
+### _Caso Complejo nº2: Manejo de datos sobre la Comunidad Europea:_
 enlace aquí
 
 
