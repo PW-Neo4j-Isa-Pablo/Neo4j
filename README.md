@@ -11,9 +11,9 @@ En este tutorial aprenderás todo lo necesario para comenzar con el manejo de la
 **Además, hemos creado una serie de tutoriales básicos sobre el manejo de las bases de datos en grafos dentro de Neo4j:**
 - [_Creación de Nodos_]()
 - [_Creación de Relaciones_]()
-- [_Manejo del operador Match_]()
-- [_Manejo avanzado del operador Match_]()
-- [_Manejo de los operadores Set, Remove y Delete_]()
+- [_Manejo del operador Match_](https://www.youtube.com/watch?v=UaQ3jn0Rzvk&t=1s)
+- [_Manejo avanzado del operador Match_](https://www.youtube.com/watch?v=Vl6-5cWz6ig&t=11s)
+- [_Manejo de los operadores Set, Remove y Delete_](https://www.youtube.com/watch?v=F2CfkPZf-5s&t=6s)
 
 **Finalmente hemos creado dos casos prácticos, para una mayor comprensión de la materia por parte del usuario, que son:**
 1. [_Caso Complejo nº1:_]()
