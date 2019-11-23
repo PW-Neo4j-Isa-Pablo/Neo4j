@@ -13,7 +13,26 @@ enlace aqui
 ### 4. Explicación de Neo4j Desktop
 enlace aqui
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Además, hemos creado una serie de tutoriales básicos sobre el manejo de las bases de datos en grafos dentro de Neo4j
+### Creación de Nodos
+enlace aqui
+### Creación de Relaciones
+enlace aqui
+### Manejo del operador Match 
+enlace aqui
+### Manejo avanzado del operador Match
+enlace aqui
+### Manejo de los operadores Set, Remove y Delete
+enlace aquí
+
+Finalmente hemos creado dos casos prácticos, para una mayor comprensión de la materia por parte del usuario, que son:
+### Caso Complejo nº1: 
+enlace aquí
+### Caso Complejo nº2: Manejo de datos sobre la Comunidad Europea
+enlace aquí
+
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -32,9 +51,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Caso Complejo nº1: 
-
-### Caso Complejo nº2: Manejo de datos sobre la Comunidad Europea
