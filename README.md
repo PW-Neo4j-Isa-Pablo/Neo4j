@@ -18,24 +18,3 @@ En este tutorial aprenderás todo lo necesario para comenzar con el manejo de la
 **Finalmente hemos creado dos casos prácticos, para una mayor comprensión de la materia por parte del usuario, que son:**
 1. [_Caso Complejo nº1:_]()
 2. [_Caso Complejo nº2: Manejo de datos sobre la Comunidad Europea:_]()
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
