@@ -2,7 +2,7 @@
 
 En este tutorial aprenderás todo lo necesario para comenzar con el manejo de las bases de datos en grafos, haciendo uso del software de Neo4j.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Para introducirse en este software hemos preparado una serie de videos, que ubicarán al usuario de forma correcta para comenzar a usar Neo4j.
 
 ### Markdown
 
