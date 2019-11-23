@@ -22,6 +22,7 @@ En este tutorial aprenderás todo lo necesario para comenzar con el manejo de la
 Como añadido a estos videotutoriales, hemos creado una serie de directorios en [este repositorio](https://github.com/PW-Neo4j-Isa-Pablo/Neo4j), dentro de los cuales se encuentra todo tipo de contenido complementario.
 
 Entre ellos: 
+
 -[Comandos utilizados en todos los videos tutoriales](https://github.com/PW-Neo4j-Isa-Pablo/Neo4j/blob/master/Ejercicios/Básicos/Documento_De_Comandos.pdf)
 
 -[Comandos y resultados obtenidos del Caso Complejo 1](https://github.com/PW-Neo4j-Isa-Pablo/Neo4j/blob/master/Ejercicios/Casos_Complejos/2_Profesores_Alumnos/Comandos_Profesores_Alumnos.pdf)
