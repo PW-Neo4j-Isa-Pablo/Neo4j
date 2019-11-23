@@ -16,8 +16,9 @@ En este tutorial aprenderás todo lo necesario para comenzar con el manejo de la
 - [_Manejo de los operadores Set, Remove y Delete_](https://www.youtube.com/watch?v=F2CfkPZf-5s&t=6s)
 
 **Finalmente hemos creado dos casos prácticos, para una mayor comprensión de la materia por parte del usuario, que son:**
-- [_Caso Complejo nº1: Manejo de datos sobre Profesores y Alumnos de una Universidad:_]()
-- [_Caso Complejo nº2: Manejo de datos sobre la Comunidad Europea:_](https://youtu.be/8tQAAaEsb8s)
+- [_Caso Complejo nº1: Manejo de datos sobre la Comunidad Europea:_](https://youtu.be/8tQAAaEsb8s)
+- [_Caso Complejo nº2: Manejo de datos sobre Profesores y Alumnos de una Universidad:_]()
+
 
 Como añadido a estos videotutoriales, hemos creado una serie de directorios en [este repositorio](https://github.com/PW-Neo4j-Isa-Pablo/Neo4j), dentro de los cuales se encuentra todo tipo de contenido complementario.
 
