@@ -9,7 +9,7 @@ En este tutorial aprenderás todo lo necesario para comenzar con el manejo de la
 4. [Explicación de Neo4j Desktop](https://www.youtube.com/watch?v=Wn5qooV5TXc)
 
 **Además, hemos creado una serie de tutoriales básicos sobre el manejo de las bases de datos en grafos dentro de Neo4j:**
-- [_Creación de Nodos_]()
+- [_Creación de Nodos_](https://www.youtube.com/watch?v=c1hnpqyc1qY&feature=youtu.be)
 - [_Creación de Relaciones_]()
 - [_Manejo del operador Match_](https://www.youtube.com/watch?v=UaQ3jn0Rzvk&t=1s)
 - [_Manejo avanzado del operador Match_](https://www.youtube.com/watch?v=Vl6-5cWz6ig&t=11s)
